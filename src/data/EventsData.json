@@ -1,0 +1,3383 @@
+[
+  {
+    "id": 1,
+    "name": "Southern Hills Results",
+    "date": "June 17, 2025",
+    "results": {
+      "title": "Southern Hills Results",
+      "games": [
+        {
+          "name": "Individual Quota Game",
+          "winners": [
+            {
+              "place": "1st Place Tie",
+              "score": "+10",
+              "prize": "$90 each",
+              "players": [
+                "Jeff Morzella",
+                "Greg Disbrow"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+9",
+              "prize": "$80",
+              "players": [
+                "Jon Bates"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+7",
+              "prize": "$75",
+              "players": [
+                "Jack Crochet"
+              ]
+            },
+            {
+              "place": "5th Place Tie",
+              "score": "+6",
+              "prize": "$60",
+              "players": [
+                "Norman Young",
+                "Doug Newby",
+                "Tom Funcheon"
+              ]
+            },
+            {
+              "place": "8th Place",
+              "score": "+5",
+              "prize": "$45",
+              "players": [
+                "Brad Congdon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins Game",
+          "description": "Five skins out worth $40 each (4 birdies and 1 eagle)",
+          "winners": [
+            {
+              "hole": 2,
+              "player": "Troy Reynolds",
+              "note": null
+            },
+            {
+              "hole": 4,
+              "player": "Louis Cosmelli",
+              "note": null
+            },
+            {
+              "hole": 6,
+              "player": "Jack Crochet",
+              "note": "EAGLE!"
+            },
+            {
+              "hole": 12,
+              "player": "Balraj Matharu",
+              "note": null
+            },
+            {
+              "hole": 16,
+              "player": "Balraj Matharu",
+              "note": null
+            },
+            {
+              "hole": 18,
+              "player": "Barb Dassatti",
+              "note": null
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin",
+          "prize": "$20 gift card to PGA Tour superstore",
+          "winners": [
+            {
+              "hole": 8,
+              "player": "Mark Stanton",
+              "distance": "2' 9\""
+            },
+            {
+              "hole": 17,
+              "player": "Brad Congdon",
+              "distance": "5' 5\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Memorial Day Results",
+    "date": "May 26, 2025",
+    "results": {
+      "title": "Memorial Day Scramble 5.26.25 Results",
+      "games": [
+        {
+          "name": "Tournament Winners",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 57,
+              "prize": "$40 gift card and a foursome to the Dunedin Golf Club",
+              "players": [
+                "Steve Hubbell",
+                "Tim Hubbell",
+                "Rick Siers",
+                "Justin McNerney"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 54,
+              "prize": "$40 gift card and a foursome to the Dunedin Golf Club",
+              "note": "won scorecard playoff with a birdie on #9",
+              "players": [
+                "Kevin Liske",
+                "Tara Liske",
+                "Mitch Jones",
+                "Ronnie Hester"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 54,
+              "prize": "$30 gift card and a foursome to the Lake Jovita",
+              "players": [
+                "Tim Currin",
+                "Spurgeon Currin",
+                "Don Currin",
+                "Richard Perez"
+              ]
+            },
+            {
+              "place": "3rd Place Net",
+              "score": 55,
+              "prize": "$20 gift card and a foursome to the Eagles",
+              "players": [
+                "Tim Hartle",
+                "Kristin Hartle",
+                "Bruce Clifford",
+                "Karen Clifford"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "Two skins out, $100 each",
+          "winners": [
+            {
+              "note": "Eagle #7",
+              "players": [
+                "Kevin Liske",
+                "Tara Liske",
+                "Mitch Jones",
+                "Ronnie Hester"
+              ]
+            },
+            {
+              "note": "Birdie #8",
+              "players": [
+                "Steve Hubbell",
+                "Tim Hubbell",
+                "Rick Siers",
+                "Justin McNerney"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ALL TEAM SCORES: GROSS/NET",
+          "scores": [
+            {
+              "rank": 1,
+              "players": [
+                "Steve Hubbell",
+                "Tim Hubbell",
+                "Rick Siers",
+                "Justin McNerney"
+              ],
+              "gross": 57,
+              "net": 48
+            },
+            {
+              "rank": 2,
+              "players": [
+                "Tim Currin",
+                "Spurgeon Currin",
+                "Don Currin",
+                "Richard Perez"
+              ],
+              "gross": 66,
+              "net": 54
+            },
+            {
+              "rank": 3,
+              "players": [
+                "Kevin Liske",
+                "Tara Liske",
+                "Mitch Jones",
+                "Ronnie Hester"
+              ],
+              "gross": 65,
+              "net": 54
+            },
+            {
+              "rank": 4,
+              "players": [
+                "Tim Hartle",
+                "Kristin Hartle",
+                "Bruce Clifford",
+                "Karen Clifford"
+              ],
+              "gross": 67,
+              "net": 55
+            },
+            {
+              "rank": 5,
+              "players": [
+                "Scott Spagna",
+                "Dan Ricker",
+                "Tom Coffee",
+                "Jeff Hubbard"
+              ],
+              "gross": 64,
+              "net": 56
+            },
+            {
+              "rank": 6,
+              "players": [
+                "Michael Wood",
+                "Jim Mason",
+                "Jacque Cassidy"
+              ],
+              "gross": 66,
+              "net": 56
+            },
+            {
+              "rank": 7,
+              "players": [
+                "Mike Cvihun",
+                "Mitch Gawronski",
+                "Spencer Hobday",
+                "Dave Schiller"
+              ],
+              "gross": 65,
+              "net": 57
+            },
+            {
+              "rank": 8,
+              "players": [
+                "Kent Taylor",
+                "Ryan Wall",
+                "Solomon",
+                "Solomon"
+              ],
+              "gross": 66,
+              "net": 58
+            },
+            {
+              "rank": 9,
+              "players": [
+                "Rhomas Weld",
+                "Slade Cowling",
+                "Frank Sullivan",
+                "Ryan Newton"
+              ],
+              "gross": 70,
+              "net": 58
+            },
+            {
+              "rank": 10,
+              "players": [
+                "Chris Gluck",
+                "Elizabeth Gluck",
+                "Bill Burr",
+                "Shelley Burr"
+              ],
+              "gross": 72,
+              "net": 59
+            },
+            {
+              "rank": 11,
+              "players": [
+                "Randall Frazier",
+                "Len Brancewicz",
+                "Dan Devol",
+                "Greg Clute"
+              ],
+              "gross": 66,
+              "net": 59
+            },
+            {
+              "rank": 12,
+              "players": [
+                "John D'Auria",
+                "Sue D'Auria",
+                "Matt D'Auria",
+                "Elaine Morelli"
+              ],
+              "gross": 73,
+              "net": 59
+            },
+            {
+              "rank": 13,
+              "players": [
+                "Brandon Grady",
+                "Shawn Haugh",
+                "Robbie Rivera"
+              ],
+              "gross": 67,
+              "net": 59
+            },
+            {
+              "rank": 14,
+              "players": [
+                "Agostino Dietzer",
+                "Kennedy Jefferson",
+                "Zach Dietzer",
+                "Jordan Jefferson"
+              ],
+              "gross": 72,
+              "net": 61
+            },
+            {
+              "rank": 15,
+              "players": [
+                "Jay Hough",
+                "Jacob Taylor",
+                "Tanner Zirbel",
+                "Boyd Vanlandghen"
+              ],
+              "gross": 68,
+              "net": 61
+            },
+            {
+              "rank": 16,
+              "players": [
+                "Jim Ronacher",
+                "Ann Marie Ronacher",
+                "Michael Ferrand",
+                "Tyler Coad"
+              ],
+              "gross": 72,
+              "net": 61
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Black Diamond Pairings Monday Results",
+    "date": "March 24, 2025",
+    "results": {
+      "title": "Black Diamond Play Day 3.24.25 Results",
+      "games": [
+        {
+          "name": "Individual Quota Format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+12",
+              "prize": "$90 each",
+              "players": [
+                "Victor Moncato",
+                "Ron Wolf"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+10",
+              "prize": "$80",
+              "players": [
+                "Brian Douglas"
+              ]
+            },
+            {
+              "place": "4th Place tie",
+              "score": "+8",
+              "prize": "$70 each",
+              "players": [
+                "Michael Dean",
+                "Keith Koehler",
+                "Joe Koehler"
+              ]
+            },
+            {
+              "place": "7th Place",
+              "score": "+7",
+              "prize": "$60",
+              "players": [
+                "Don Straub"
+              ]
+            },
+            {
+              "place": "8th Place tie",
+              "score": "+6",
+              "prize": "$55 each",
+              "players": [
+                "Ed Bates",
+                "Ron Hall"
+              ]
+            },
+            {
+              "place": "10th Place tie",
+              "score": "+5",
+              "prize": "$50 each",
+              "players": [
+                "David Rosen",
+                "Cody Reed",
+                "Michael Leonard"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "3 skins out, $100 each",
+          "winners": [
+            {
+              "note": "Ron Wolf birdie #5",
+              "players": []
+            },
+            {
+              "note": "Michael Dean birdie #15",
+              "players": []
+            },
+            {
+              "note": "Michael Dean eagle #16",
+              "players": []
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin Winners",
+          "prize": "$20 gift card to PGA Superstore “use in store only”",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Casey Elkins",
+              "distance": "4' 1\""
+            },
+            {
+              "hole": 13,
+              "player": "Mark Plummer",
+              "distance": "3' 8\""
+            },
+            {
+              "hole": 8,
+              "player": "Paul Pinard",
+              "distance": "4' 4\""
+            },
+            {
+              "hole": 17,
+              "player": "Howard Levinson",
+              "distance": "5' 1\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Golden Ocala Results",
+    "date": "Mon Feb 24, 2025",
+    "results": {
+      "title": "Golden Ocala Play Day 2.24.25 Results",
+      "games": [
+        {
+          "name": "Individual Winners",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+9",
+              "prize": "$65",
+              "players": [
+                "Don Levy"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+6",
+              "prize": "$60",
+              "players": [
+                "Pradeep Haldar"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+5",
+              "prize": "$55",
+              "players": [
+                "Mark Anderson"
+              ]
+            },
+            {
+              "place": "4th Place Tie",
+              "score": "+4",
+              "prize": "$50 each",
+              "players": [
+                "John Thompson",
+                "Matt Algate"
+              ]
+            },
+            {
+              "place": "6th Place",
+              "score": "+3",
+              "prize": "$45",
+              "players": [
+                "Jacob Roberts"
+              ]
+            },
+            {
+              "place": "7th Place",
+              "score": "+2",
+              "prize": "$40",
+              "players": [
+                "Arnold Rutkis"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "Four skins out, $50 each",
+          "winners": [
+            {
+              "note": "Arnold Rutkins birdie #4",
+              "players": []
+            },
+            {
+              "note": "Matt Algate birdie #7",
+              "players": []
+            },
+            {
+              "note": "Rich Szentmiklosi birdie #8",
+              "players": []
+            },
+            {
+              "note": "Jacob Roberts birdie #16",
+              "players": []
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin winners",
+          "prize": "$20 PGA Tour Superstore gift card",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Chris Clancey",
+              "distance": "3'"
+            },
+            {
+              "hole": 11,
+              "player": "Kyle Osting",
+              "distance": "4'8\""
+            },
+            {
+              "hole": 6,
+              "player": "Raj Parikh",
+              "distance": "9'2\""
+            },
+            {
+              "hole": 15,
+              "player": "Mark Anderson",
+              "distance": "10'2\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Southern Hills Results",
+    "date": "Tues Feb 11, 2025",
+    "results": {
+      "title": "Southern Hills Plantation Results",
+      "games": [
+        {
+          "name": "Individual Quota Game",
+          "winners": [
+            {
+              "place": "1st Place Tie",
+              "score": "+9",
+              "prize": "$60 each",
+              "players": [
+                "Jerry Roat",
+                "Braden Yates"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+8",
+              "prize": "$55",
+              "players": [
+                "Jim Watson"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+5",
+              "prize": "$50",
+              "players": [
+                "James Jackson"
+              ]
+            },
+            {
+              "place": "5th Place Tie",
+              "score": "+4",
+              "prize": "$45",
+              "players": [
+                "Jim Johnson",
+                "John Johnson"
+              ]
+            },
+            {
+              "place": "7th Place Tie",
+              "score": "+3",
+              "prize": "$40 each",
+              "players": [
+                "George Wyatt",
+                "Joe Alvarez",
+                "Robert Rupp"
+              ]
+            },
+            {
+              "place": "10th Place Tie",
+              "score": "+2",
+              "prize": "$35 each",
+              "players": [
+                "Garry Thasho",
+                "Craig Shatto",
+                "Mark Plummer"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins Game",
+          "description": "Four birdie skins out worth $65 each",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Jerry Roat"
+            },
+            {
+              "hole": 7,
+              "player": "Steve Crayton"
+            },
+            {
+              "hole": 13,
+              "player": "Robert Rupp"
+            },
+            {
+              "hole": 17,
+              "player": "Craig Shatto"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Super Bowl Scramble Results",
+    "date": "Sun Feb 9, 2025",
+    "results": {
+      "title": "14th Annual Super Bowl Scramble Crescent Oaks Sunday February 9th 2025",
+      "games": [
+        {
+          "name": "Mixed Division",
+          "prize": "proshop gift card and complimentary round of golf",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "net score 55.62",
+              "players": [
+                "Tom Roate",
+                "Joann Hanning",
+                "Lex Bitner",
+                "Mike Bitner"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "net score 56.0",
+              "players": [
+                "Katherine Nielsen",
+                "Jack Crochet",
+                "Dennis Henderson",
+                "Michael Frank"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Net Division",
+          "prize": "proshop gift card and complimentary round of golf",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "net score 51.88",
+              "players": [
+                "Jim Dambrosio",
+                "Scott Coleman",
+                "Jim Burke",
+                "Rusty Heavener"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "net score 53.25",
+              "note": "won by scorcard playoff on 2nd handicap hole",
+              "players": [
+                "Jerry Barthlett",
+                "Lee Barthlett",
+                "Clay Quackenbush"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gross Division",
+          "prize": "proshop gift card and complimentary round of golf",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "gross score 57",
+              "players": [
+                "Tyler Selesky",
+                "Chris Brennan",
+                "Shane Wumkes",
+                "Turner Imhoff"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "gross score 58",
+              "players": [
+                "Nick Cloonen",
+                "Dan Boos",
+                "David White",
+                "Rhett Simpson"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin Winners",
+          "prize": "complimentary twosome to crescent oaks",
+          "winners": [
+            {
+              "hole": 3,
+              "player": "Rich Ahlgren"
+            },
+            {
+              "hole": 7,
+              "player": "Rhett Simpson"
+            },
+            {
+              "hole": 11,
+              "player": "Jim Burke"
+            },
+            {
+              "hole": 17,
+              "player": "Scott Coleman"
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "2 skins out, $170 each – Mike Montgomery team eagle #3 and Jim Dambrosio team eagle #6. There were additional eagles and birdies but they were cut by others with the same score."
+        },
+        {
+          "name": "Square game winners",
+          "prize": "$125 each",
+          "winners": [
+            {
+              "quarter": 1,
+              "score": "Eagles 7 KC 0",
+              "players": [
+                "Matt Avon",
+                "Katherine Nielsen"
+              ]
+            },
+            {
+              "quarter": 2,
+              "score": "Eagles 4 KC 0",
+              "players": [
+                "Shane Wumkes",
+                "Chuck Booth"
+              ]
+            },
+            {
+              "quarter": 3,
+              "score": "Eagles 4 KC 6",
+              "players": [
+                "Paul Suh",
+                "Joe Kloppel"
+              ]
+            },
+            {
+              "quarter": 4,
+              "score": "Eagles 0 KC 2",
+              "players": [
+                "Tyler Selesky",
+                "Dave Brazen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ardea Play Day Results",
+    "date": "Mon Jan 27, 2025",
+    "results": {
+      "title": "Ardea Play Day 1.27.25 Results",
+      "games": [
+        {
+          "name": "Individual Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+11",
+              "prize": "$60",
+              "players": [
+                "Ron Pugliese"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+10",
+              "prize": "$55",
+              "players": [
+                "Steve Nelson"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+9",
+              "prize": "$50",
+              "players": [
+                "Brock Malky"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+6",
+              "prize": "$45",
+              "players": [
+                "Bill Gower"
+              ]
+            },
+            {
+              "place": "5th Place tie",
+              "score": "+5",
+              "prize": "$40 each",
+              "players": [
+                "Ron Gross",
+                "John Foss"
+              ]
+            },
+            {
+              "place": "7th Place",
+              "score": "+4",
+              "prize": "$35",
+              "players": [
+                "Paul Boiven"
+              ]
+            },
+            {
+              "place": "8th Place tie",
+              "score": "+2",
+              "prize": "$30 each",
+              "players": [
+                "Jeff Morzella",
+                "Matt Metzcus"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "6 skins out, $40 each",
+          "winners": [
+            {
+              "note": "Ron Gross eagle #3"
+            },
+            {
+              "note": "Jeff Mabry birdie #4"
+            },
+            {
+              "note": "Brock Malky birdie #6"
+            },
+            {
+              "note": "John Foss birdie #10"
+            },
+            {
+              "note": "Ron Pugliese birdie #14"
+            },
+            {
+              "note": "Mike Morgan birdie #17"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Black Diamond Results",
+    "date": "Monday Jan 13, 2025",
+    "results": {
+      "title": "Black Diamond Play Day 1.13.25 Results",
+      "games": [
+        {
+          "name": "Individual Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+3",
+              "prize": "$60",
+              "players": [
+                "Grace Munchel"
+              ]
+            },
+            {
+              "place": "2nd Place tie",
+              "score": "+2",
+              "prize": "$50 each",
+              "players": [
+                "Dave Clement",
+                "Dave Woodcox"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+1",
+              "prize": "$40",
+              "players": [
+                "Marc Seaverson"
+              ]
+            },
+            {
+              "place": "5th Place tie",
+              "score": "Even",
+              "prize": "$30 each",
+              "players": [
+                "Lisa Henke",
+                "Andrew Phillips",
+                "Paul Jackson",
+                "Juan Carlos"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "7 skins out, $25 each",
+          "winners": [
+            {
+              "note": "Andrew Phillips birdie #2"
+            },
+            {
+              "note": "Juan Carlos birdie #4"
+            },
+            {
+              "note": "John Disalvo eagle #5"
+            },
+            {
+              "note": "David Woodcox birdie #7"
+            },
+            {
+              "note": "David Woodcox birdie #18"
+            },
+            {
+              "note": "Mary Rutledge birdie #9"
+            },
+            {
+              "note": "Lisa Henke birdie #13"
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin Winners",
+          "prize": "$20 gift card to PGA Superstore “use in store only”",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Juan Carlos",
+              "distance": "1' 7\""
+            },
+            {
+              "hole": 13,
+              "player": "Gary Billingsley",
+              "distance": "8' 6\""
+            },
+            {
+              "hole": 8,
+              "player": "Josh Caldwell",
+              "distance": "5' 5\""
+            },
+            {
+              "hole": 17,
+              "player": "Ed Moore",
+              "distance": "3' 6\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Cypress Run Results",
+    "date": "Monday January 6, 2025",
+    "results": {
+      "title": "Cypress Run Play Day 1.4.25 Results",
+      "games": [
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+13",
+              "prize": "$80",
+              "players": [
+                "Rodney Kline"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+9",
+              "prize": "$70",
+              "players": [
+                "Nick Cloonen"
+              ]
+            },
+            {
+              "place": "3rd Place Tie",
+              "score": "+7",
+              "prize": "$60 each",
+              "players": [
+                "Tom Funcheon",
+                "Mike Dowell",
+                "Dave Clement",
+                "Jay Gould"
+              ]
+            },
+            {
+              "place": "7th Place Tie",
+              "score": "+6",
+              "prize": "$50 each",
+              "players": [
+                "Kyle Doherty",
+                "Jim Turner"
+              ]
+            },
+            {
+              "place": "9th Place Tie",
+              "score": "+4",
+              "prize": "$40 each",
+              "players": [
+                "Ed Bates",
+                "Richard Davis",
+                "Dan Nockels"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "Seven skins out, $35 each",
+          "winners": [
+            {
+              "note": "Kyle Doherty birdie #4"
+            },
+            {
+              "note": "Kyle Doherty birdie #13"
+            },
+            {
+              "note": "Jim Turner birdie #5"
+            },
+            {
+              "note": "Nick Cloonen birdie #7"
+            },
+            {
+              "note": "Nick Cloonen birdie #16"
+            },
+            {
+              "note": "Mike Dowell birdie #9"
+            },
+            {
+              "note": "Richard Davis birdie #17"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin winners",
+          "prize": "$20 PGA Tour Superstore gift card",
+          "winners": [
+            {
+              "hole": 3,
+              "player": "Jay Gould"
+            },
+            {
+              "hole": 17,
+              "player": "Richard Davis"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Black Diamond Results",
+    "date": "Monday Nov 18, 2024"
+  },
+  {
+    "id": 11,
+    "name": "Golden Ocala Results",
+    "date": "Monday October 21, 2024",
+    "results": {
+      "title": "Golden Ocala Play Day 10.21.24 Results",
+      "games": [
+        {
+          "name": "Individual Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+6",
+              "prize": "$80",
+              "players": [
+                "Don Skelton"
+              ]
+            },
+            {
+              "place": "2nd Place tie",
+              "score": "+4",
+              "prize": "$70 each",
+              "players": [
+                "Ron Hall",
+                "Lynn Morgan"
+              ]
+            },
+            {
+              "place": "4th Place tie",
+              "score": "+2",
+              "prize": "$60 each",
+              "players": [
+                "Dennis Morgan",
+                "Rick San Martin"
+              ]
+            },
+            {
+              "place": "6th Place",
+              "score": "+1",
+              "prize": "$50",
+              "players": [
+                "Marc Zagara"
+              ]
+            },
+            {
+              "place": "7th Place tie",
+              "score": "Even",
+              "prize": "$35 each",
+              "players": [
+                "Val Laroche",
+                "Sean Duff",
+                "Jack Crochet",
+                "Katherine Nielsen"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "Eight skins out, $30 each – (note: skins are determined by who has the lowest score on a hole with no other players having that same score, there were other birdies but those holes were birdied by multiple players)",
+          "winners": [
+            {
+              "note": "John Beehler birdie #1"
+            },
+            {
+              "note": "Ron Hall birdie #4"
+            },
+            {
+              "note": "Corky Yarbro birdie #7"
+            },
+            {
+              "note": "Corky Yarbro birdie #14"
+            },
+            {
+              "note": "Bob Clifford birdie #9"
+            },
+            {
+              "note": "Don Skelton birdie #10"
+            },
+            {
+              "note": "Don Skelton birdie #15"
+            },
+            {
+              "note": "Lynn Morgan birdie #13"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin",
+          "prize": "$20 PGA TOUR superstore gift card (in store use only)",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "James Hogue",
+              "distance": "7' 10\""
+            },
+            {
+              "hole": 6,
+              "player": "Robert Parish",
+              "distance": "4' 9\""
+            },
+            {
+              "hole": 11,
+              "player": "Don Skelton",
+              "distance": "6'"
+            },
+            {
+              "hole": 15,
+              "player": "Don Skelton",
+              "distance": "8' 3\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Southern Hills Results",
+    "date": "Tuesday September 24, 2024",
+    "results": {
+      "title": "Southern Hills Play Day 9.24.24 Results",
+      "games": [
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+11",
+              "prize": "$70",
+              "players": [
+                "Jerry Roat"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+9",
+              "prize": "$65",
+              "players": [
+                "Ed Bates"
+              ]
+            },
+            {
+              "place": "3rd Place Tie",
+              "score": "+8",
+              "prize": "$60 each",
+              "players": [
+                "Al Parker",
+                "Bobby Wolfe"
+              ]
+            },
+            {
+              "place": "5th Place",
+              "score": "+7",
+              "prize": "$50",
+              "players": [
+                "Clay Wilkinson"
+              ]
+            },
+            {
+              "place": "6th Place",
+              "score": "+6",
+              "prize": "$45",
+              "players": [
+                "Lee Glotzback"
+              ]
+            },
+            {
+              "place": "7th Place Tie",
+              "score": "+4",
+              "prize": "$35 each",
+              "players": [
+                "Corky Yarbro",
+                "Jeff Mabrey",
+                "Duane Tyson"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "Eight skins out, $30 each",
+          "winners": [
+            {
+              "note": "John Holowchak birdie #6"
+            },
+            {
+              "note": "Duane Tyson birdie #7"
+            },
+            {
+              "note": "Clay Wilkinson birdie #8"
+            },
+            {
+              "note": "Jerry Roat birdie #10"
+            },
+            {
+              "note": "Jerry Roat birdie #18"
+            },
+            {
+              "note": "Corky Yarbro birdie #11"
+            },
+            {
+              "note": "Charlie Kinnear birdie #14"
+            },
+            {
+              "note": "Tom Funcheon birdie #17"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin winners",
+          "prize": "$20 PGA Tour Superstore gift card",
+          "winners": [
+            {
+              "hole": 3,
+              "player": "Clay Wilkinson"
+            },
+            {
+              "hole": 8,
+              "player": "Jerry Roat"
+            },
+            {
+              "hole": 13,
+              "player": "David Sarich"
+            },
+            {
+              "hole": 17,
+              "player": "Tom Funcheon"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Lake Jovita Results Labor Day Scramble",
+    "date": "Monday September 2, 2024",
+    "results": {
+      "title": "Lake Jovita Labor Day 9.2.24 Results",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 60,
+              "players": [
+                "JP Smith",
+                "Pat Clark",
+                "Zach Gross",
+                "Lucas Barisano"
+              ]
+            },
+            {
+              "place": "2nd Place Gross",
+              "score": 61,
+              "note": "scorecard playoff",
+              "players": [
+                "Bill Mayer",
+                "Will Mayer",
+                "Jay Engberg",
+                "Mike Grande Jr"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 49.75,
+              "players": [
+                "Ward Hubbell",
+                "Tim Hubbell",
+                "Ted Simerl",
+                "Rick Sires"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 53.75,
+              "players": [
+                "Brennen Wede",
+                "Brian Diebold",
+                "Roy Swiech",
+                "Jarred Tzoucalis"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scramble Skins",
+          "description": "one skin out Birdie #18",
+          "winners": [
+            {
+              "players": [
+                "Jacob Geisler",
+                "Mark Seaverson",
+                "Jeff Hoffman",
+                "Bob Edwards"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin winners",
+          "winners": [
+            {
+              "hole": 2,
+              "player": "Ted Simerl",
+              "distance": "2' 7\""
+            },
+            {
+              "hole": 13,
+              "player": "Mitch Nolen",
+              "distance": "4' 5\""
+            },
+            {
+              "hole": 4,
+              "player": "Jacob Geisler",
+              "distance": "7' 11\""
+            },
+            {
+              "hole": 17,
+              "player": "Jeff Douglas",
+              "distance": "4' 7\""
+            }
+          ]
+        },
+        {
+          "name": "Longest putt winner",
+          "winners": [
+            {
+              "hole": 18,
+              "player": "Jeff Hoffman",
+              "distance": "15' 11\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Black Diamond Results",
+    "date": "Monday August 26, 2024",
+    "results": {
+      "title": "Black Diamond Play Day 8.26.24 Results",
+      "games": [
+        {
+          "name": "Individual Quota Format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+5",
+              "prize": "$50 each",
+              "players": [
+                "Jeff Merkel",
+                "Jerry Rodriguez",
+                "Brayden Yates"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+4",
+              "prize": "$40",
+              "players": [
+                "Kyle Doherty"
+              ]
+            },
+            {
+              "place": "5th Place",
+              "score": "+3",
+              "prize": "$30",
+              "players": [
+                "Lyndon Raatz"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "Seven skins out, $15 each",
+          "winners": [
+            {
+              "note": "Vamisi Allada birdie #6"
+            },
+            {
+              "note": "Alan Kalili birdie #8"
+            },
+            {
+              "note": "Alan Kalili birdie #16"
+            },
+            {
+              "note": "Lyndon Raatz birdie #9"
+            },
+            {
+              "note": "Kyle Doherty birdie #12"
+            },
+            {
+              "note": "Jeff Merkel birdie #13"
+            },
+            {
+              "note": "Jeff Merkel birdie #18"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin",
+          "prize": "$20 PGA TOUR superstore gift card (in store use only)",
+          "winners": [
+            {
+              "hole": 13,
+              "player": "Travis Komar",
+              "distance": "9' 11\""
+            },
+            {
+              "hole": 17,
+              "player": "Steve Howarth",
+              "distance": "14' 8\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "TPC Results",
+    "date": "August 11, 2024",
+    "results": {
+      "title": "TPC Play Day 8.11.24 Results",
+      "games": [
+        {
+          "name": "Quota format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+3",
+              "prize": "$50 each",
+              "players": [
+                "Jeff Merkel",
+                "Eric Vanderlaan"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "even",
+              "prize": "$40",
+              "players": [
+                "Rich Woodall"
+              ]
+            },
+            {
+              "place": "4th place",
+              "score": "-1",
+              "prize": "$30",
+              "players": [
+                "Barry Mera"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "five skins out, $30 each",
+          "winners": [
+            {
+              "note": "Henry Mistrot birdie #7"
+            },
+            {
+              "note": "Alan Everett birdie #11"
+            },
+            {
+              "note": "Steve Kolaga birdie #13"
+            },
+            {
+              "note": "Jeff Merkel birdie #14"
+            },
+            {
+              "note": "Carl Turba birdie #16"
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin",
+          "prize": "$20 gift card PGA TOUR superstore",
+          "winners": [
+            {
+              "hole": 2,
+              "player": "Miki Kim",
+              "distance": "7' 10\""
+            },
+            {
+              "hole": 11,
+              "player": "Kim Chae",
+              "distance": "5'"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ardea Play Day Results",
+    "date": "Monday July 15, 2024",
+    "results": {
+      "title": "ARDEA Play Day 7.15.24 Results",
+      "games": [
+        {
+          "name": "Quota format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+7",
+              "prize": "$50 each",
+              "players": [
+                "Joe Iantorno",
+                "Darrell Folsom"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+6",
+              "prize": "$40",
+              "players": [
+                "Travis Komar"
+              ]
+            },
+            {
+              "place": "4th place",
+              "score": "+5",
+              "prize": "$35",
+              "players": [
+                "Nick Cloonen"
+              ]
+            },
+            {
+              "place": "5th place tie",
+              "score": "+3",
+              "prize": "$25 each",
+              "players": [
+                "Rhett Simpson",
+                "Jim Fannin",
+                "Mike Fagan"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "four skins out, $35 each",
+          "winners": [
+            {
+              "note": "Tom Dow birdie #4"
+            },
+            {
+              "note": "Travis Komar birdie #10"
+            },
+            {
+              "note": "Kyle Doherty birdie #13"
+            },
+            {
+              "note": "Jim Fannin birdie #17"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "July 4th Results",
+    "date": "Thursday July 4, 2024",
+    "results": {
+      "title": "PLANTATION PALMS / PARADISE GOLF JULY 4, 2024 Independence Day Golf Tournament Results",
+      "note": "*Scorecard Playoff",
+      "games": [
+        {
+          "name": "First Flight",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": 58,
+              "players": [
+                "Todd Wright",
+                "Brett McMurphy",
+                "Kevin Weishaar",
+                "Peter Goulish"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": 58,
+              "players": [
+                "Nate Smith",
+                "TJ Broy",
+                "Brent Smith",
+                "Ryan Buttion"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Second Flight",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": 62,
+              "players": [
+                "Andrew Biengardo",
+                "Nick Biengardo",
+                "Dan Demarah"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": 62,
+              "players": [
+                "Tom Loechel",
+                "Steve Feigenbaum",
+                "Jeff Summers",
+                "Doug Smaus"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Third Flight",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": 67,
+              "players": [
+                "Frank Armstrong",
+                "Jeff Randall",
+                "Andy Duhon",
+                "Ricky Duhon"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": 68,
+              "players": [
+                "Roy Swiech",
+                "Ryan Diebold",
+                "Ryan Church",
+                "Brennan Wade"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Closest to the Pin",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Carl Turba"
+            },
+            {
+              "hole": 7,
+              "player": "Ferris Moore"
+            },
+            {
+              "hole": 12,
+              "player": "Billy Hodges"
+            },
+            {
+              "hole": 17,
+              "player": "Tony Sepulveda",
+              "note": "(1) “Ace”"
+            }
+          ]
+        },
+        {
+          "name": "Longest Drive",
+          "winners": [
+            {
+              "hole": 9,
+              "player": "Brad Seidel"
+            },
+            {
+              "hole": 11,
+              "player": "Tyler Selesky"
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "winners": [
+            {
+              "hole": 11,
+              "players": [
+                "N Smith",
+                "TJ Broy",
+                "B Smith",
+                "R Buttion"
+              ]
+            },
+            {
+              "hole": 14,
+              "players": [
+                "T Selesky",
+                "C Brennan",
+                "J Howell",
+                "S Wumkes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Southern Hills Results",
+    "date": "June 18, 2024",
+    "results": {
+      "title": "Southern Hills Results",
+      "games": [
+        {
+          "name": "Quota Game",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+10",
+              "prize": "$65",
+              "players": [
+                "Rhett Simpson"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+9",
+              "prize": "$60",
+              "players": [
+                "Dan Boos"
+              ]
+            },
+            {
+              "place": "3rd Place",
+              "score": "+7",
+              "prize": "$55",
+              "players": [
+                "Lee Glotzback"
+              ]
+            },
+            {
+              "place": "4th Place tie",
+              "score": "+3",
+              "prize": "$50",
+              "players": [
+                "Jeff Morzella",
+                "Mike Morgan"
+              ]
+            },
+            {
+              "place": "6th Place tie",
+              "score": "+2",
+              "prize": "$40",
+              "players": [
+                "Norman Young",
+                "George Wyatt",
+                "Robert Rygwalski",
+                "Scott Edmonson",
+                "Ron Pugliese"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins game",
+          "description": "six skins worth $50 each",
+          "winners": [
+            {
+              "note": "Darrell Folsom birdie #1"
+            },
+            {
+              "note": "Mike Pupello birdie #8"
+            },
+            {
+              "note": "Dennis Morgan birdie #9"
+            },
+            {
+              "note": "Ron Pugliese biride #11"
+            },
+            {
+              "note": "Stan Krupinski birdie #14"
+            },
+            {
+              "note": "Mike McNeely birdie #15"
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin",
+          "prize": "$20 gift card to PGA Tour Superstore",
+          "winners": [
+            {
+              "hole": 3,
+              "player": "Bruce Edstrom"
+            },
+            {
+              "hole": 8,
+              "player": "Mike Pupello"
+            },
+            {
+              "hole": 13,
+              "player": "Jim Siegel"
+            },
+            {
+              "hole": 17,
+              "player": "Rhett Simpson"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Memorial Day Scramble Results",
+    "date": "May 27, 2024",
+    "results": {
+      "title": "Memorial Day Scramble 5.27.24 Results",
+      "games": [
+        {
+          "name": "Gross Winners",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 58,
+              "players": [
+                "Duane Williams",
+                "Jeff Detrano",
+                "George Borak",
+                "Cameron Willams"
+              ]
+            },
+            {
+              "place": "2nd Place Gross",
+              "score": 59,
+              "players": [
+                "Rick Fusari",
+                "Mitchell Nolen",
+                "Dave Nolen",
+                "Vic Bateh"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Net Winners",
+          "winners": [
+            {
+              "place": "1st Place Net",
+              "score": 53.38,
+              "players": [
+                "Arash Eskandari",
+                "Kam Eskandari",
+                "Jackson Noel",
+                "Rich Perillo"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 54.13,
+              "players": [
+                "Michael Henry",
+                "Alan Smith",
+                "Ed Sorgenfry",
+                "Tom Wilkes"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin",
+          "prize": "$20 gift card PGA Tour Superstore",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Alan Everett"
+            },
+            {
+              "hole": 6,
+              "player": "John Early"
+            },
+            {
+              "hole": 12,
+              "player": "Jeff Detrano"
+            },
+            {
+              "hole": 17,
+              "player": "Bill Burr"
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "Two skins out, $100 each",
+          "winners": [
+            {
+              "note": "Eagle #10",
+              "players": [
+                "Rick Fusari",
+                "Mitchell Nolen",
+                "Dave Nolen",
+                "Vic Bateh"
+              ]
+            },
+            {
+              "note": "Eagle #11",
+              "players": [
+                "Duane Williams",
+                "Jeff Detrano",
+                "George Borak",
+                "Cameron Willams"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "TPC Tampa Bay Results",
+    "date": "May 20, 2024",
+    "results": {
+      "title": "TPC Tampa Bay Results May 20, 2024",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 58,
+              "prize": "$120 team",
+              "players": [
+                "Tim Jobe",
+                "Ryan Koch",
+                "Adam Gardner"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 56.50,
+              "prize": "$120 team",
+              "players": [
+                "Tom Gillingham",
+                "Doug Robey",
+                "Darl Funkhauser",
+                "Todd Schueman"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scramble Skins",
+          "description": "Six skins out, $20 each",
+          "winners": [
+            {
+              "note": "Birdie #1, Eagle #7, Eagle #12, & Birdie #17 Tim Jobe team"
+            },
+            {
+              "note": "Birdie #11 Derek Belejchak team"
+            },
+            {
+              "note": "Birdie #18 Tom Foley team"
+            }
+          ]
+        },
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+11",
+              "prize": "$85",
+              "players": [
+                "Lee Glotzback"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+9",
+              "prize": "$80",
+              "players": [
+                "Jack Crochet"
+              ]
+            },
+            {
+              "place": "3rd place",
+              "score": "+8",
+              "prize": "$75",
+              "players": [
+                "Jim Fannin"
+              ]
+            },
+            {
+              "place": "4th place",
+              "score": "+7",
+              "prize": "$70",
+              "players": [
+                "Darrell Folsom"
+              ]
+            },
+            {
+              "place": "5th place tie",
+              "score": "+6",
+              "prize": "$60 each",
+              "players": [
+                "David Paiko",
+                "Gary Roehrig"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "six skins out, $35 each",
+          "winners": [
+            {
+              "note": "Michael Kane birdie #4"
+            },
+            {
+              "note": "Paul Boivin birdie #6"
+            },
+            {
+              "note": "Jeff Bajek birdie #12"
+            },
+            {
+              "note": "Jim Fannin birdie #14"
+            },
+            {
+              "note": "Lee Glotzback birdie #16"
+            },
+            {
+              "note": "David Paiko birdie #18"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin",
+          "prize": "$20 PGA TOUR superstore gift card (in store use only)",
+          "winners": [
+            {
+              "hole": 2,
+              "player": "Scott Binder",
+              "distance": "3' 4\""
+            },
+            {
+              "hole": 11,
+              "player": "Carl Grube",
+              "distance": "3' 11\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Black Diamond Results",
+    "date": "January 15, 2024",
+    "results": {
+      "title": "Black Diamond Play Day 1.15.24 Results",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 62,
+              "prize": "$150 team",
+              "players": [
+                "John Beehler",
+                "Don Hassee",
+                "Calvin Mason"
+              ]
+            },
+            {
+              "place": "2nd Place Gross",
+              "score": 63,
+              "prize": "$100 team",
+              "players": [
+                "Rick Fusari",
+                "Vic Bateh",
+                "Mitchell Nolen",
+                "Mark Taylor"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 54.50,
+              "prize": "$150 team",
+              "players": [
+                "Chris Brundage",
+                "Mason Pamsh",
+                "Joe Reddaway",
+                "Brian Marx"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 56,
+              "prize": "$100 team",
+              "players": [
+                "Kevin Cunningham",
+                "John Agee",
+                "Ron Behanic",
+                "Michael Fitzpatrick"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "One skin out, birdie 3 on #6 $330",
+          "winners": [
+            {
+              "players": [
+                "Tommy Lee",
+                "Larry Jacobs",
+                "Jake Cohen",
+                "Matt Demeri"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+3",
+              "prize": "$60",
+              "players": [
+                "Mike Frier"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+3",
+              "prize": "$50",
+              "players": [
+                "Randy Hunter"
+              ]
+            },
+            {
+              "place": "3rd place",
+              "score": "+2",
+              "prize": "$40",
+              "players": [
+                "Mike Wood"
+              ]
+            },
+            {
+              "place": "4th Place even",
+              "prize": "$25 each",
+              "players": [
+                "Charlie Kinnear",
+                "Pinakari Patel",
+                "Dhimant Patel"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "$35 each",
+          "winners": [
+            {
+              "note": "Matt Pressnell birdie #9"
+            },
+            {
+              "note": "Andy Parks birdie #10"
+            },
+            {
+              "note": "Jeff Rhodes birdie #15"
+            }
+          ]
+        },
+        {
+          "name": "Closest to the Pin",
+          "prize": "$20 PGA superstore gift card",
+          "winners": [
+            {
+              "hole": 3,
+              "player": "John Korty",
+              "distance": "8' 11\""
+            },
+            {
+              "hole": 6,
+              "player": "Brian Marx",
+              "distance": "6' 2\""
+            },
+            {
+              "hole": 13,
+              "player": "Dhimant Patel",
+              "distance": "10' 4\""
+            },
+            {
+              "hole": 17,
+              "player": "Kevin Sweet",
+              "distance": "2' 1\""
+            }
+          ]
+        },
+        {
+          "name": "Raffle winners",
+          "description": "grand prize 4 some at Black Diamond, Larry Klotz, $20 gift card PGA superstore, Brian Poff, Mike Frier, Mike Wood, twosome at the Eagles, Ron Behanic and Jim Mason, twosome at Wentworth, Greg Strum and Randy Hunter"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Eastlake Woodlands Results",
+    "date": "Monday Jan 29, 2024",
+    "results": {
+      "title": "Ardea Country Club Play Day 1.29.24 Results",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 60,
+              "prize": "$100 team",
+              "players": [
+                "Jeff Merkel",
+                "Mike Frier",
+                "Joe Malench",
+                "Barry Yehling"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 54.25,
+              "prize": "$100 team",
+              "players": [
+                "Nick Cloonen",
+                "Dan Boos",
+                "David White",
+                "Rhett Simpson"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 55.63,
+              "prize": "$80 team",
+              "players": [
+                "Jack Rossi",
+                "Lee Hachigan",
+                "Fred Fly",
+                "Chuck Bondie"
+              ]
+            },
+            {
+              "place": "3rd Place Net",
+              "score": 61,
+              "prize": "$60 team",
+              "players": [
+                "Sue and David Kolczak",
+                "Donna Dayton",
+                "Bob West"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scramble Skins",
+          "description": "Six skins out, $25 each",
+          "winners": [
+            {
+              "note": "Eagle #1 and Birdie #17",
+              "count": 2,
+              "players": [
+                "Jeff Merkel",
+                "Mike Frier",
+                "Joe Malench",
+                "Barry Yehling"
+              ]
+            },
+            {
+              "note": "Birdie #8",
+              "count": 1,
+              "players": [
+                "James Randall",
+                "Mike Loenard",
+                "Howard Winters",
+                "Rick San Martin"
+              ]
+            },
+            {
+              "note": "Eagle #13",
+              "count": 1,
+              "players": [
+                "Nick Cloonen",
+                "Dan Boos",
+                "David White",
+                "Rhett Simpson"
+              ]
+            },
+            {
+              "note": "Birdie #14 & #15",
+              "count": 2,
+              "players": [
+                "Sue and David Kolczak",
+                "Donna Dayton",
+                "Bob West"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+5",
+              "prize": "$60",
+              "players": [
+                "Joe Iantorno"
+              ]
+            },
+            {
+              "place": "2nd Place Tie",
+              "score": "+3",
+              "prize": "$40 each",
+              "players": [
+                "George Hazatone",
+                "Michael Dean"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+1",
+              "prize": "$30",
+              "players": [
+                "Dave Stopera"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "$20 each",
+          "winners": [
+            {
+              "note": "Dave Smith birdie #1"
+            },
+            {
+              "note": "George Hazatone birdie #10"
+            },
+            {
+              "note": "Duane Schweitz birdie #12"
+            },
+            {
+              "note": "Mike McNelly birdie #14"
+            },
+            {
+              "note": "Ron Martinez birdie #17"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Southern Hills Results",
+    "date": "February 13 2024",
+    "results": {
+      "title": "Southern Hills Play Day 2.13.24 Results",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 63,
+              "prize": "$100 team",
+              "players": [
+                "Jim Watson",
+                "Scott Watson",
+                "Mark Woytalewicz",
+                "Bill Pittami"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 55.63,
+              "prize": "$100 team",
+              "players": [
+                "Derek Belejchak",
+                "Adam Winslow",
+                "Jon Vingo",
+                "Al Lacy"
+              ]
+            },
+            {
+              "place": "2nd Place Gross",
+              "score": 66,
+              "prize": "$80 team",
+              "players": [
+                "Jim Dacey",
+                "Vic Bateh",
+                "Kent Taylor",
+                "Chris Clancy"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 59.13,
+              "prize": "$80 team",
+              "players": [
+                "Matt Avon",
+                "Brian Douglas",
+                "Brian Quate",
+                "Lee Quate"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scramble Skins",
+          "description": "seven skins out, $25 each",
+          "winners": [
+            {
+              "note": "Birdie#2 Watson team"
+            },
+            {
+              "note": "Birdie#4 Belejchak team"
+            },
+            {
+              "note": "Birdie#8 Judd team"
+            },
+            {
+              "note": "Birdie #11 Watson team"
+            },
+            {
+              "note": "Birdie#12 Avon team"
+            },
+            {
+              "note": "Birdie#16 Watson team"
+            },
+            {
+              "note": "Birdie #17 Avon team"
+            }
+          ]
+        },
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+6",
+              "prize": "$70",
+              "players": [
+                "Charlie Kinnear"
+              ]
+            },
+            {
+              "place": "2nd Place Tie",
+              "score": "+4",
+              "prize": "$70 each",
+              "players": [
+                "Todd Ross",
+                "Ed Bates"
+              ]
+            },
+            {
+              "place": "4th Place Tie",
+              "score": "+3",
+              "prize": "$50 each",
+              "players": [
+                "Jeff Mabrey",
+                "Dave Matulis"
+              ]
+            },
+            {
+              "place": "6th place Tie",
+              "score": "+2",
+              "prize": "$40 each",
+              "players": [
+                "Jim Fannin",
+                "Scott Funke",
+                "and Jerry Roat"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "Eight skins out, $30 each",
+          "winners": [
+            {
+              "note": "Charlie Kinnear birdie #2"
+            },
+            {
+              "note": "Garry Thrasho birdie #4"
+            },
+            {
+              "note": "George Wyatt birdie #7"
+            },
+            {
+              "note": "Craig Shatto birdie #8"
+            },
+            {
+              "note": "Mike Dean birdie #11"
+            },
+            {
+              "note": "Charlie Kinnear birdie #12"
+            },
+            {
+              "note": "Jerry Roat birdie#17"
+            },
+            {
+              "note": "and David Matulis birdie #18"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Cypress Run Results",
+    "date": "Monday February 5, 2024",
+    "results": {
+      "title": "Cypress Run Play Day 2.5.24 Results",
+      "games": [
+        {
+          "name": "Quota Game",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+7",
+              "prize": "$80",
+              "players": [
+                "Chris Lindsay"
+              ]
+            },
+            {
+              "place": "2nd Place",
+              "score": "+6",
+              "prize": "$70",
+              "players": [
+                "Reed Hanks"
+              ]
+            },
+            {
+              "place": "3rd Place tie",
+              "score": "+5",
+              "prize": "$55",
+              "players": [
+                "Fred McGriff",
+                "Gary Billingsley"
+              ]
+            },
+            {
+              "place": "5th Place tie",
+              "score": "+3",
+              "prize": "$35",
+              "players": [
+                "Jeff Mabrey",
+                "Mike Kane"
+              ]
+            },
+            {
+              "place": "7th Place tie",
+              "score": "+2",
+              "prize": "$20",
+              "players": [
+                "Andrew Parkes",
+                "Charlie Kinnear"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "six total $25 each",
+          "winners": [
+            {
+              "note": "Fred McGriff birdie #1"
+            },
+            {
+              "note": "Andrew Parkes birdie #5 & #8"
+            },
+            {
+              "note": "Duane Schweitz birdie #9"
+            },
+            {
+              "note": "Gary Billingsley birdie #13"
+            },
+            {
+              "note": "Mike McNeely birdie #16"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Superbowl Scramble Results",
+    "date": "Sunday February 11, 2024",
+    "results": {
+      "title": "Super Bowl Scramble 2.11.24 Results",
+      "games": [
+        {
+          "name": "Gross Division",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 56,
+              "note": "(won scorecard playoff)",
+              "players": [
+                "Nick Cloonen",
+                "Dan Boos",
+                "David White",
+                "Rhett Simpson"
+              ]
+            },
+            {
+              "place": "2nd Place Gross",
+              "score": 56,
+              "players": [
+                "Greg Simpson",
+                "Jim Turner",
+                "David White",
+                "Rhett Simpson"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Net Division",
+          "winners": [
+            {
+              "place": "1st Place Net",
+              "score": 48.88,
+              "players": [
+                "Scott Bechard",
+                "Ryan Koch",
+                "Adam Gardner",
+                "Eric Otlieb"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 51.13,
+              "players": [
+                "Paul Suh",
+                "Frank Fundora",
+                "Eric Lindquist",
+                "Tom Kiernan"
+              ]
+            },
+            {
+              "place": "3rd Place Net",
+              "score": 55.63,
+              "players": [
+                "Josh Kelly",
+                "Bragden Radford",
+                "Steve Smith",
+                "Pat Smith"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mixed Division",
+          "winners": [
+            {
+              "place": "1st Place Net",
+              "score": 56.62,
+              "players": [
+                "Jim and Ann Marie Ronacher",
+                "Mike Ferrand",
+                "Tyler Coad"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 58.13,
+              "players": [
+                "Tom Roate",
+                "Joann Hannig",
+                "Lex Bitner",
+                "Mike Bitner"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin",
+          "winners": [
+            {
+              "hole": 3,
+              "player": "Radford Brogden"
+            },
+            {
+              "hole": 7,
+              "player": "Josh Kelly"
+            },
+            {
+              "hole": 11,
+              "player": "Sam Brandenburg"
+            },
+            {
+              "hole": 17,
+              "player": "Dave Clausen"
+            }
+          ]
+        },
+        {
+          "name": "Skins",
+          "description": "One skin Eagle on #5",
+          "winners": [
+            {
+              "players": [
+                "Paul Suh",
+                "Frank Fundora",
+                "Eric Lindquist",
+                "Tom Kierman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Golden Ocala Results",
+    "date": "Monday February 26, 2024",
+    "results": {
+      "title": "Golden Ocala 2.26.24 Results",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 57,
+              "prize": "$120 team",
+              "players": [
+                "Helen Wu",
+                "Jim Regula",
+                "Mike Corporale",
+                "John Thompson"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 51.25,
+              "prize": "$120 team",
+              "players": [
+                "Nick Cloonen",
+                "Dan Boos",
+                "David White",
+                "Rhett Simpson"
+              ]
+            },
+            {
+              "place": "Tie 2nd Place Net",
+              "score": 57,
+              "prize": "$70 team",
+              "players": [
+                "Rick Fusari",
+                "Vic Bateh",
+                "Chris Clancy"
+              ]
+            },
+            {
+              "place": "Tie 2nd Place Net",
+              "score": 57,
+              "prize": "$70 team",
+              "players": [
+                "Frank Castellan",
+                "Jake Roberts",
+                "Keith Roberts",
+                "Bryan Plaskett"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scramble Skins",
+          "description": "ONE skin out, $150 ea",
+          "winners": [
+            {
+              "note": "Eagle #18",
+              "players": [
+                "Rick Fusari",
+                "Vic Bateh",
+                "Chris Clancy"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+7",
+              "prize": "$80",
+              "players": [
+                "Katherine Nielsen"
+              ]
+            },
+            {
+              "place": "2nd Place tie",
+              "score": "+6",
+              "prize": "$70 ea",
+              "players": [
+                "Ed Smith",
+                "Chris Maldony"
+              ]
+            },
+            {
+              "place": "4th Place tie",
+              "score": "+5",
+              "prize": "$60 ea",
+              "players": [
+                "Mark Stockman",
+                "Gustavo Rodriguez"
+              ]
+            },
+            {
+              "place": "6th Place Tie",
+              "score": "+4",
+              "prize": "$50 ea",
+              "players": [
+                "Carlos Leon",
+                "Dennis Morgan"
+              ]
+            },
+            {
+              "place": "8th Place Tie",
+              "score": "+3",
+              "prize": "$40 ea",
+              "players": [
+                "Mike Dean",
+                "Ed Bates"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "Six skins out, $40 each",
+          "winners": [
+            {
+              "note": "Chris Maldony birdie #1 & #15"
+            },
+            {
+              "note": "Todd Katz birdie #7"
+            },
+            {
+              "note": "Jarod Maier birdie #12"
+            },
+            {
+              "note": "Prixa Khamkhosy birdie #3"
+            },
+            {
+              "note": "and Garry Thasho birdie #11"
+            }
+          ]
+        },
+        {
+          "name": "Closest to Pin",
+          "prize": "$20 gift card (in store only) PGA Tour Superstore",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "Julio Pinto",
+              "distance": "3' 8\""
+            },
+            {
+              "hole": 6,
+              "player": "Paul Shannon",
+              "distance": "8' 8\""
+            },
+            {
+              "hole": 11,
+              "player": "Rico Velez",
+              "distance": "7\""
+            },
+            {
+              "hole": 15,
+              "player": "Chris Maldony",
+              "distance": "6' 6\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "Eastlake Woodlands Results",
+    "date": "March 4, 2024",
+    "results": {
+      "title": "Ardea Country Club Play Day 3.4.24 Results",
+      "games": [
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+7",
+              "prize": "$60",
+              "players": [
+                "Mike Frier"
+              ]
+            },
+            {
+              "place": "2nd Place Tie",
+              "score": "+5",
+              "prize": "$50 each",
+              "players": [
+                "Dean Homa",
+                "Kelly Gregg"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "++4",
+              "prize": "$-45",
+              "players": [
+                "Jeff Morzella"
+              ]
+            },
+            {
+              "place": "5th Place Tie",
+              "score": "+3",
+              "prize": "$35 each",
+              "players": [
+                "Ed Bates",
+                "Lee Glotzback"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "7 @ $20 each",
+          "winners": [
+            {
+              "note": "Ed Bates birdie #3"
+            },
+            {
+              "note": "Dan Ruev birdie #4"
+            },
+            {
+              "note": "Bill Weeks birdie #6"
+            },
+            {
+              "note": "Mike Frier birdie #9"
+            },
+            {
+              "note": "Dean Homa birdie #11 & #16"
+            },
+            {
+              "note": "Corky Bailey birdie #17"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Black Diamond Results",
+    "date": "Monday March 25, 2024",
+    "results": {
+      "title": "Black Diamond Play Day 3.25.24 Results",
+      "games": [
+        {
+          "name": "Scramble Format",
+          "winners": [
+            {
+              "place": "1st Place Gross",
+              "score": 57,
+              "prize": "$100 team",
+              "players": [
+                "Nick Cloonen",
+                "Dan Boos",
+                "David White",
+                "Rhett Simpon"
+              ]
+            },
+            {
+              "place": "1st Place Net",
+              "score": 56.50,
+              "prize": "$100 team",
+              "players": [
+                "David Puhalski",
+                "Rock Ridgeway",
+                "Alpin",
+                "Grimes"
+              ]
+            },
+            {
+              "place": "2nd Place Net",
+              "score": 57.0,
+              "prize": "$80 team",
+              "players": [
+                "Brian Quate",
+                "Brian Douglas",
+                "Patrick Cranford",
+                "Vic Mocato"
+              ]
+            },
+            {
+              "place": "3rd Place Net",
+              "score": 57.63,
+              "prize": "$70 team",
+              "players": [
+                "Richard Perillo",
+                "Arash Eskandari",
+                "Kam Eskandari",
+                "Eddy Chang"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scramble Skins",
+          "description": "Two skins out, $90 each",
+          "winners": [
+            {
+              "note": "Birdie #13 David Ayala team"
+            },
+            {
+              "note": "Birdie #17 Nick Cloonen team"
+            }
+          ]
+        },
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place tie",
+              "score": "+5",
+              "prize": "$65 each",
+              "players": [
+                "Roger Murney",
+                "Jim Fannin",
+                "Steve Kolaga"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+4",
+              "prize": "$40",
+              "players": [
+                "Jack Crochet"
+              ]
+            },
+            {
+              "place": "5th Place",
+              "score": "+3",
+              "prize": "$35",
+              "players": [
+                "John Hiroz"
+              ]
+            },
+            {
+              "place": "6th Place Tie",
+              "score": "+2",
+              "prize": "$30 each",
+              "players": [
+                "George Hazatone",
+                "Ron Pugliese"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "Nine skins out, $20 each",
+          "winners": [
+            {
+              "note": "Mike Shirley birdie #1"
+            },
+            {
+              "note": "Mark Teague birdie #2"
+            },
+            {
+              "note": "George Hazatone birdie #4 & #12"
+            },
+            {
+              "note": "Steve Kolaga birdie #5"
+            },
+            {
+              "note": "Norman Sorel birdie #13 & #15"
+            },
+            {
+              "note": "Jim Fannin birdie #16 & #17"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin",
+          "prize": "$20 PGA TOUR superstore gift card (in store use only)",
+          "winners": [
+            {
+              "hole": 4,
+              "player": "George Hazatone",
+              "distance": "2' 2\""
+            },
+            {
+              "hole": 13,
+              "player": "David Ayala",
+              "distance": "2' 10\""
+            },
+            {
+              "hole": 8,
+              "player": "William Harris",
+              "distance": "3' 2\""
+            },
+            {
+              "hole": 17,
+              "player": "Charles Fraleigh",
+              "distance": "3' 2\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Carrollwood CC Results",
+    "date": "April 1, 2024",
+    "results": {
+      "title": "Carrollwood CC Play Day Monday April 1st",
+      "games": [
+        {
+          "name": "Quota Format",
+          "winners": [
+            {
+              "place": "1st Place",
+              "score": "+11",
+              "prize": "$60",
+              "players": [
+                "Steve Myers"
+              ]
+            },
+            {
+              "place": "2nd Place tie",
+              "score": "+8",
+              "prize": "$50",
+              "players": [
+                "Robert Rupp",
+                "Dan Reuv"
+              ]
+            },
+            {
+              "place": "4th Place",
+              "score": "+7",
+              "prize": "$40",
+              "players": [
+                "Kam Eskandari"
+              ]
+            },
+            {
+              "place": "5th Place",
+              "score": "+6",
+              "prize": "$35",
+              "players": [
+                "Donna Dayton"
+              ]
+            },
+            {
+              "place": "6th Place",
+              "score": "+4",
+              "prize": "$30",
+              "players": [
+                "Ed Bates"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quota Skins",
+          "description": "seven skins out, $20 each",
+          "winners": [
+            {
+              "note": "Duane Scheitz birdie Pine #2 & Cypress #1"
+            },
+            {
+              "note": "Donna Dayton birdie Pine #5"
+            },
+            {
+              "note": "Robert Rupp birdie Cypress #2"
+            },
+            {
+              "note": "Dan Ruev birdie Cypress #3"
+            },
+            {
+              "note": "Steve Myers birdie Cypress #5 & #8"
+            }
+          ]
+        },
+        {
+          "name": "Closest to pin",
+          "prize": "$20 PGA TOUR superstore gift card (in store use only)",
+          "winners": [
+            {
+              "note": "Pine #5 Donna Dayton"
+            },
+            {
+              "note": "Pine #8 Steve Myers"
+            },
+            {
+              "note": "Cypress #3 Dan Ruev"
+            },
+            {
+              "note": "Cypress #6 Donna Dayton"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
