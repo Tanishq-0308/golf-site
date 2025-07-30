@@ -11,8 +11,8 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'My React PWA',
-        short_name: 'ReactPWA',
+        name: 'Paradise Golf',
+        short_name: 'Paradise Golf',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
