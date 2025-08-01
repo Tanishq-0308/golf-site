@@ -99,7 +99,7 @@ export default function FootterSection() {
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-8 py-6">
           <p className="text-center text-gray-500 text-sm">
-            © 2023 ParadiseGolf. All rights reserved.
+            © 2025 ParadiseGolf. All rights reserved.
           </p>
         </div>
       </div>
